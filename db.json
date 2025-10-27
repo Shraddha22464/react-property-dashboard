@@ -1,0 +1,31 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Luxury Apartment",
+      "location": "Pune",
+      "price": 8500000,
+      "type": "Apartment",
+      "description": "Modern 3BHK apartment with great amenities.",
+      "imageUrl": "placeholder_url_1"
+    },
+    {
+      "id": 2,
+      "name": "Commercial Office Space",
+      "location": "Hyderabad",
+      "price": 12000000,
+      "type": "Office Space",
+      "description": "Prime location office space, fully furnished.",
+      "imageUrl": "placeholder_url_2"
+    },
+    {
+      "id": 3,
+      "name": "Residential Plot",
+      "location": "Indore",
+      "price": 2500000,
+      "type": "Plot",
+      "description": "North-facing plot ready for construction.",
+      "imageUrl": "placeholder_url_3"
+    }
+  ]
+}
